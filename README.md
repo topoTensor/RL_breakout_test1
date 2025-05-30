@@ -1,6 +1,6 @@
 # RL Breakout Test
 
-My first prototype of *evolutionary reinforcement learning model* of a game Breakout using pytorch and pygame. It's yet to be improved. The training process is sequential and built from scratch. It uses pytorch neural network for player movement. Every instance of the game is stored in the environment class.
+This is my first prototype of an *evolutionary reinforcement learning model* for the game Breakout, built using PyTorch and Pygame. It is still a work in progress. The training process is sequential and implemented from scratch. The player movement is controlled by a PyTorch neural network. Each instance of the game is managed by the environment class.
 
 
 To start training, just run:
